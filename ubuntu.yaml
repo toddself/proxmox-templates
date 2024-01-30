@@ -294,7 +294,7 @@ actions:
 
     # Enable avahi
     systemctl enable avahi-daemon
-
+   
     # Enable openssh
     systemctl enable ssh
 
@@ -348,4 +348,3 @@ actions:
 
 mappings:
   architecture_map: debian
-
