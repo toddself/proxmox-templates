@@ -177,6 +177,7 @@ packages:
     - avahi-daemon
     - curl
     - openssh-server
+    - gpg
     action: install
 
   - packages:
